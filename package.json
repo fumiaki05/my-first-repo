@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fumiaki05/my-first-repo/issues"
   },
-  "homepage": "https://github.com/fumiaki05/my-first-repo#readme"
+  "homepage": "https://github.com/fumiaki05/my-first-repo#readme",
+  "dependencies": {
+    "node-sass": "^4.1.1"
+  }
 }
